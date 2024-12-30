@@ -1,6 +1,8 @@
 module example
 
-go 1.18
+go 1.22
+
+toolchain go1.22.10
 
 require (
 	github.com/golang-queue/contrib v0.0.1
